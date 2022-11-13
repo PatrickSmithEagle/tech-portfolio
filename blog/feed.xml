@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Patrick Smith Blog</title>
+        <link>https://PatrickSmithEagle.github.io/tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Patrick Smith news and events.</description>
+        <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Patrick Smith Blog</title>
+            <url>https://PatrickSmithEagle.github.io/tech-portfolio/undefined</url>
+            <link>https://PatrickSmithEagle.github.io/tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2022 Patrick Smith</copyright>
+        <item>
+            <title><![CDATA[Ants!]]></title>
+            <link>https://PatrickSmithEagle.github.io/tech-portfolio/blog/2021/1/26/blog-post.html</link>
+            <guid>https://PatrickSmithEagle.github.io/tech-portfolio/blog/2021/1/26/blog-post.html</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Ants! 3.0 the interactive ant simulation game created for the web browser. <a href="https://who-pizza.itch.io/ants-30">link to Ants! 3.0</a></p> ]]></description>
+        </item>
+    </channel>
+</rss>
