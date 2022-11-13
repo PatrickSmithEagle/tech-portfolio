@@ -4,5 +4,5 @@ title: Projects
 ---
 
 [link to DuckDuckGoAPI project](https://github.com/PatrickSmithEagle/DuckDuckGoAPI)
-
-![DuckDuckGoAPI](https://github.com/PatrickSmithEagle/tech-portfolio/blob/main/docs/project_pic.png)
+!A Project to search the DuckDuckGo API for the presidents of the US.
+![DuckDuckGoAPI](./assets/project_pic.png)
