@@ -3,12 +3,6 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+[link to DuckDuckGoAPI project](https://github.com/PatrickSmithEagle/DuckDuckGoAPI)
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://github.com/PatrickSmithEagle/DuckDuckGoAPI)
-or even embed images with the following Markdown:
-
-![DuckDuckGoAPI](assets/project_pic.png)
+![DuckDuckGoAPI](https://github.com/PatrickSmithEagle/tech-portfolio/blob/main/docs/project_pic.png)
