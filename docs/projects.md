@@ -11,4 +11,4 @@ a screenshot or GIF to show it.
 You can list [links](https://github.com/PatrickSmithEagle/DuckDuckGoAPI)
 or even embed images with the following Markdown:
 
-![DuckDuckGoAPI](./assets/project_pic.png)
+![DuckDuckGoAPI](assets/project_pic.png)
