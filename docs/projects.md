@@ -3,7 +3,8 @@ id: projects
 title: Projects
 ---
 
-[link to Ants!](https://who-pizza.itch.io/ants-30)
+[link to Ants! 3.0](https://who-pizza.itch.io/ants-30)
+The interactive simulation written completely in javascript.
 You have ants in your kitchen, and now you can have ants on your computer!
 ![DuckDuckGoAPI](./assets/ants.png)
 
